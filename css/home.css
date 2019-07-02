@@ -1,0 +1,53 @@
+h1 {
+  color: #d99a11;
+  text-align: center;
+  font-family: "Ubuntu";
+  font-weight: 800;
+  font-size: 35px;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+  font-family: Arial;
+  font-weight: 400;
+}
+
+.perks {
+  font-family: Arial;
+  color: #288519;
+  font-size: 30px;
+}
+
+.unique {
+  font-family: Arial;
+  color: #d99a11;
+  font-size: 30px;
+}
+
+.thoughts {
+  font-family: Arial;
+  color: #226de6;
+  font-size: 30px;
+}
+
+p {
+  font-family: Arial;
+  font-size: 15px;
+}
+
+li {
+  font-family: Arial;
+  font-size: 15px;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
